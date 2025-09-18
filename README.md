@@ -1,1 +1,1 @@
-# dot227.github.io
+Hi, my name is Dorothy, and I am a junior at Lehigh University! My major is Journalism, and double minors in Marketing and Sociology. I am from Hong Kong, but I have lived in the US for the past five years. 
