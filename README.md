@@ -9,4 +9,4 @@ This is my [Linkedin](www.linkedin.com/in/dorothy-tang-ba5b34297)
 ![Profilepicture](https://github.com/dot227/dot227.github.io/blob/main/Dorothy%20Tang%20Headshot.jpeg?raw=true)
 
 In-class Info Graphic 
-![Infographic]
+![Infographic](https://github.com/dot227/dot227.github.io/blob/main/White%20Blue%20Simple%20World%20Population%20Infographics.jpg?raw=true)
