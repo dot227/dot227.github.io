@@ -15,3 +15,9 @@ This infographic shows the Fall 2024 first-year enrollment at Lehigh University,
 ![Infographic](https://github.com/dot227/dot227.github.io/blob/main/White%20Blue%20Simple%20World%20Population%20Infographics.jpg?raw=true)
 
 This is the [Dataset](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprofile_2024.pdf)
+
+## Homework Info Graphic 
+
+This infographic highlights gender differences in social media use among U.S. adults in 2024. Women report higher usage of platforms like Facebook, Instagram, Pinterest, and TikTok, while men tend to lead in usage on LinkedIn, Reddit, and X (formerly Twitter). YouTube remains the most widely used platform overall, with nearly equal adoption across genders. 
+
+![Infographic](
