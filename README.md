@@ -20,4 +20,6 @@ This is the [Dataset](https://data.lehigh.edu/sites/data.lehigh.edu/files/LUprof
 
 This infographic highlights gender differences in social media use among U.S. adults in 2024. Women report higher usage of platforms like Facebook, Instagram, Pinterest, and TikTok, while men tend to lead in usage on LinkedIn, Reddit, and X (formerly Twitter). YouTube remains the most widely used platform overall, with nearly equal adoption across genders. 
 
-![Infographic](
+![Infographic](https://github.com/dot227/dot227.github.io/blob/main/Header.png?raw=true)
+
+This is the [Dataset](https://www.pewresearch.org/internet/fact-sheet/social-media/)
