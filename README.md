@@ -29,3 +29,7 @@ This is the [Dataset](https://www.pewresearch.org/internet/fact-sheet/social-med
 This project shows the evolution of women in journalism and how they have created a space for women in journalism to develope. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vT7isnrAPcJvwh5nDHM56tOVdojPJ5peu_qsTZd8xKXXwnQcpag0gNJB6VYJUtF6nl4sr8XSq5_QAEV&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' h
+
+## Inclass pie chart practice
+
+<iframe title="Lehigh Undergraduate Enrolment Spring 2020" aria-label="Pie Chart" id="datawrapper-chart-fKW4E" src="https://datawrapper.dwcdn.net/fKW4E/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="636" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
