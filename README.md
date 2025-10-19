@@ -33,3 +33,8 @@ This project shows the evolution of women in journalism and how they have create
 ## Inclass pie chart practice
 
 <iframe title="Lehigh Undergraduate Enrolment Spring 2020" aria-label="Pie Chart" id="datawrapper-chart-fKW4E" src="https://datawrapper.dwcdn.net/fKW4E/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="636" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
+
+## Bar Chart: Bethlehem, PA 2025 Population by Race 
+
+<iframe title="Bethlehem, PA 2025 Population by Race" aria-label="Column Chart" id="datawrapper-chart-rRVqe" src="https://datawrapper.dwcdn.net/rRVqe/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="564" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
