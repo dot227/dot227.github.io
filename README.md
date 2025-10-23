@@ -45,7 +45,7 @@ This project shows the evolution of women in journalism and how they have create
 
 ## Top 5 Worlds Best Beaches
 
-Welcome to the 2025 list of The World's 50 Best Beaches. Our 2025 list is a culmination of countless days spent by our judges, Beach Ambassadors and World's 50 Beaches team exploring beaches all over the world. We hope this list provides the inspiration you need to plan your next beach vacation.
+Welcome to the 2025 list of The World's 5 Best Beaches. Our 2025 list is a culmination of countless days spent by our judges, Beach Ambassadors and World's 5 Beaches team exploring beaches all over the world. We hope this list provides the inspiration you need to plan your next beach vacation.
 
 Author: https://worlds50beaches.com/top-50-worlds-best-beaches/
 
