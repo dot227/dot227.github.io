@@ -42,3 +42,7 @@ This project shows the evolution of women in journalism and how they have create
 ## Inclass My Map
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1hAMpSdGNqSkGb7zR7dtxld44VLa58OY&ehbc=2E312F" width="640" height="480"></iframe>
+
+## Top 5 Worlds Best Beaches
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1WRQLk1ST1XcAVRxoHQVgJaEpX3AG6Es&ehbc=2E312F" width="640" height="480"></iframe>
